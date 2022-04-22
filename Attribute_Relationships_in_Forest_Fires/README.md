@@ -16,7 +16,7 @@ The aim of our EDA is to determine:
 
 
 ## Attribute Information
-For this dataset you are provided with the following features/attributes of a park:
+In this dataset, we are provided with the following features/attributes of Montesinho natural park, Northeast Portugal:
 
 **X** - x-axis spatial coordinate within the Montesinho park map: 1 to 9
 
